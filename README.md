@@ -22,7 +22,7 @@ machine-learning-examples/
 │   └── pca_wine_quality.py
 │
 ├── neural_networks/
-│   └── perceptron_from_scratch.py
+│   └── perceptron.py
 │
 ├── data/
 │   └── winequality-red.csv
